@@ -4,4 +4,4 @@
   X-Content-Type-Options: nosniff
   Content-Security-Policy: default-src 'none'
   Referrer-Policy: no-referrer
-  Permissions-Policy: self
+  Permissions-Policy: fullscreen=(self "https://astonishing-syrniki-e1f621.netlify.app/"), geolocation=*, camera=()
